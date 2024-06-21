@@ -13,7 +13,7 @@ during the taught course.
     - [Downloading files from SRA](Bulk_RNAseq_Course_Base/Markdowns/S1_Getting_raw_reads_from_SRA.html)
 
 2. Raw read file format and QC
-    - [Using Trimmomatic to remove adapter contamination from reads](Bulk_RNAseq_Course_Base/Markdowns/S3_Trimming_Reads.html)
+    - [Using Trimmomatic to remove adapter contamination from reads](Bulk_RNAseq_Course_Base/Markdowns/S2_Trimming_Reads.html)
 
 3. Gene expression quantification
     - [Using Subread to count aligned reads](Bulk_RNAseq_Course_Base/Markdowns/S8_Read_Counts_with_SubRead.html)
